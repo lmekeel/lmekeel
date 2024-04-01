@@ -13,6 +13,7 @@ Skills: SWIFT / SWIFTUI / XCODE / JAVA / REACT NATIVE / CORE DATA  / REST APIs  
 Skills on my To-Learn List: MVVM/MVC, UIKit, Core Animation, Memory management, Unit Testing, ARKit, AVFoundation
 
 ## Examples of my work
+<img src="https://github.com/lmekeel/lmekeel/assets/95368109/a8adb3c6-6143-4313-80a8-778faa51763c" width="100" />
 
 ## Other things... 
 - 🔭 I’m currently working on building apps for my portfolio 
